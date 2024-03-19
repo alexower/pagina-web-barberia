@@ -1,1 +1,1 @@
-# pagina-wed-barberia
+# pagina-web-barberia
